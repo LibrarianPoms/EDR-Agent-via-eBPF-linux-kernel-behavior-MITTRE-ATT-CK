@@ -30,7 +30,6 @@ Cet agent EDR propose une **architecture hybride noyau/espace utilisateur** capa
 
 | Information | Détails |
 |---|---|
-| **Auteur** | **Aymane Bouras** |
 | **Établissement** | **EMSI** — École Marocaine des Sciences de l'Ingénieur (4ème année Ingénierie Informatique et Réseaux) |
 | **Encadrement Pédagogique** | **Mme. Khadija Bousmar** (EMSI) |
 | **Organisme d'Accueil** | **NETSIZE** |
